@@ -56,6 +56,4 @@ The project demonstrates the complete data analytics workflow, including data cl
 
 Suthanthiradevi Seenivasan
 
-[Your Name]
 
-Data Analytics Weiterbildung – Final Project
